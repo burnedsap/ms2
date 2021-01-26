@@ -6,7 +6,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 https://burnedsap.github.io/ms2
 paginate:            1
-baseurl:             ""
+baseurl:             https://burnedsap.github.io/ms2
 
 # Assets
 #
