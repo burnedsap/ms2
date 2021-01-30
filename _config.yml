@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               MS2
+tagline:             documentation blog
 url:                 https://burnedsap.github.io/ms2
 paginate:            1
 baseurl:             https://burnedsap.github.io/ms2
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Salil Parekh
+  url:               https://twitter.com/burnedsap
+  email:             pares667@newschool.edu
 
 # Custom vars
 version:             2.1.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/burnedsap/ms2
 
 # Gems
 gems:
