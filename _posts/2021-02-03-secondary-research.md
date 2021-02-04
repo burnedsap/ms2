@@ -13,7 +13,7 @@ title: Secondary Research
   [https://dl.acm.org/doi/abs/10.1145/2493394.2493418](https://dl.acm.org/doi/abs/10.1145/2493394.2493418)  
     
   “Alternate Reality Games (ARGs) can be utilized as an educational platform to engage students in a collaborative exploration of the field of computing as a means to increase interest in computing.”
-![](/media/8938E2D0-072F-435B-AC6F-11CAEB261EC3.png)
+![](/ms2/media/8938E2D0-072F-435B-AC6F-11CAEB261EC3.png)
 
 ### VillageCell: cost effective cellular connectivity in rural areas  
 
@@ -36,7 +36,7 @@ title: Secondary Research
   [https://www.sciencedirect.com/science/article/pii/S1045926X96900026](https://www.sciencedirect.com/science/article/pii/S1045926X96900026)  
     
   “envision a rich world of dynamic persistent informational entities that operate according to multiple physics specifically designed to provide cognitively facile access and serve as the basis for the design of new computationally-based work materials.”
-![](/media/C52EF449-99A6-4CFC-8129-075B82EFDEF9.png)
+![](/ms2/media/C52EF449-99A6-4CFC-8129-075B82EFDEF9.png)
 
 ### Challenges in the Decentralised Web: The Mastodon Case  
 
